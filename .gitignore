@@ -1,3 +1,8 @@
-only_for_genius.cpp
-tempCodeRunnerFile.cpp
+*.pub
+*.pem
+id_ed25519
+id_rsa
+Git-shit
+onlt_for_genius.cpp
 tempCodeRunnerFile
+tempCodeRunnerFile.cpp
